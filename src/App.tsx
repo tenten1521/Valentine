@@ -40,6 +40,7 @@ export default function Page() {
           <>
             <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
             <div className="text-container">Ok yay!!!</div>
+             <div className="text-container">I Love You lab </div>
           </>
         ) : (
           <>
